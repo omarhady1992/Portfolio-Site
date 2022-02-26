@@ -17,3 +17,12 @@ header {
     align-items: center;
     padding: 10px 200px;
 }
+
+.logo {
+    padding: 0 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 1.8em;
+    font-weight: 700;
+    text-decoration: dashed;
+    text-transform: uppercase;
+}
