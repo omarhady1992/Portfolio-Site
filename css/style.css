@@ -15,7 +15,7 @@ header {
     z-index: 999;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 200px;
+    padding: 10px 50px;
 }
 
 .logo {
@@ -25,4 +25,12 @@ header {
     font-weight: 700;
     text-decoration: dashed;
     text-transform: uppercase;
+}
+
+#navig {
+    background-color: rgb(64, 59, 73);
+}
+
+#navig:hover {
+    color: rgb(100, 207, 96);
 }
